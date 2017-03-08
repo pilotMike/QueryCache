@@ -17,13 +17,13 @@ namespace QueryCacheProject.Tests
         public void throws_exception_on_null()
         {
             Expression<Func<int>> f = null;
-            Assert.Throws(typeof(ArgumentNullException), () => _cache.GetOrAddExpr(f));
+            Assert.Throws(typeof(ArgumentNullException), () => _cache.GetOrAdd(f));
         }
 
         [Fact]
         public void returns_data()
         {
-            var result = _cache.GetOrAddExpr(() => 1);
+            var result = _cache.GetOrAdd(() => 1);
             Assert.Equal(1, result);
         }
 
@@ -35,7 +35,7 @@ namespace QueryCacheProject.Tests
 
             for(int i = 0; i < iters; i++)
             {
-                _cache.GetOrAddExpr(() => counter.GetCallCount(0));
+                _cache.GetOrAdd(() => counter.GetCallCount(0));
             }
 
             var result = counter.TotalCount;
@@ -65,7 +65,7 @@ namespace QueryCacheProject.Tests
 
             for (int i = 0; i < iters; i++)
             {
-                _cache.GetOrAddExpr(() => counter.GetCallCount(i));
+                _cache.GetOrAdd(() => counter.GetCallCount(i));
             }
 
             var result = counter.TotalCount;

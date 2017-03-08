@@ -15,7 +15,7 @@ namespace QueryCacheProject
             _cache = new MemoryCache("emptyConfigName");
         }
 
-        public T GetOrAddExpr<T>(Expression<Func<T>> expression)
+        public T GetOrAdd<T>(Expression<Func<T>> expression)
         {
             if (expression == null)
             {
