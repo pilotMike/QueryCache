@@ -1,0 +1,5 @@
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject\bin\Debug\QueryCacheProject.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject\bin\Debug\QueryCacheProject.pdb
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject\obj\Debug\QueryCacheProject.csprojResolveAssemblyReference.cache
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject\obj\Debug\QueryCacheProject.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject\obj\Debug\QueryCacheProject.pdb

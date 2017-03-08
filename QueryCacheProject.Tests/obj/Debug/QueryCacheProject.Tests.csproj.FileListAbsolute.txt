@@ -1,0 +1,17 @@
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\QueryCacheProject.Tests.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\QueryCacheProject.Tests.pdb
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\QueryCacheProject.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.abstractions.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.assert.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.core.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.execution.desktop.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\QueryCacheProject.pdb
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.abstractions.xml
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.assert.xml
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.core.xml
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\xunit.execution.desktop.xml
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\obj\Debug\QueryCacheProject.Tests.csprojResolveAssemblyReference.cache
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\obj\Debug\QueryCacheProject.Tests.dll
+C:\Users\dileom\Desktop\QueryCache\QueryCache.Lib\QueryCacheProject.Tests\obj\Debug\QueryCacheProject.Tests.pdb
